@@ -1,5 +1,7 @@
 # Imagine-ChildWorks
 SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI and ML 🤖 to offer personalized itineraries, route optimization, accommodation suggestions, and real-time updates. hello to seamless adventures with SmartTravel Assistant. ✨
+![WhatsApp Image 2024-03-09 at 16 23 38_36e0f799](https://github.com/Reneiljoshua/Imagine-ChildWorks/assets/96534599/11971f9c-38bc-439a-9f08-6661550d4391)
+
 # Project Title: SmartTravel Assistant🌍✈️
 # Project Statement:
   In today's fast-paced world, travelers often struggle with the complexities of trip planning. Existing applications lack efficiency in providing personalized itineraries tailored to individual preferences, budget constraints, and trip durations. Additionally, optimizing travel routes and accommodations poses challenges, leading to suboptimal experiences. The need for a comprehensive solution that seamlessly integrates Artificial Intelligence and Machine Learning technologies to address these pain points is evident. Therefore, there is a pressing need for a smart travel planning application that revolutionizes the way travelers organize and experience their journeys. 🌍✈️ 
@@ -54,7 +56,7 @@ SmartTravel Assistant is a cutting-edge travel planning application that revolut
 5.🤖 Machine Learning Libraries
 # Performance Comparison:
 ![WhatsApp Image 2024-03-09 at 16 19 49_87d59efa](https://github.com/Reneiljoshua/Imagine-ChildWorks/assets/96534599/5a9b7201-7d6c-4d11-b096-405a30365c1d)
-![WhatsApp Image 2024-03-09 at 16 18 10_4209fcea](https://github.com/Reneiljoshua/Imagine-ChildWorks/assets/96534599/183b3bbe-a970-4327-a45a-fcedce119c3b)
+
 
 
 # Business Perspective:
