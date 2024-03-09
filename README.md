@@ -101,7 +101,7 @@ In conclusion, leveraging Intel OneAPI empowers developers to create AI and ML s
 
 **Step 2:** Clone the github repository
 
-**Step 3:** Use ipynb file in Intel OneAPI for faster code execution
+**Step 3:** Use ipynb file in Intel OneAPI for faster code execution: https://jupyter.oneapi.devcloud.intel.com/user/u215422/doc/tree/Sentiment_Analysis.ipynb
 
 **Step 4:** Pip install necessary packages required by the file
 
