@@ -36,7 +36,11 @@ SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI a
 6. SmartTravel's adaptability extends to suggesting top-rated restaurants and booking hotels close to meeting locations, ensuring convenience.
 7. Through continuous refinement facilitated by user feedback, SmartTravel sets a new standard in intelligent travel companionship.
 # Intel OneAPI:
-
+1. **Powering Sentiment Analysis:** 💪 SmartTravel harnesses the formidable capabilities of Intel OneAPI to deploy its sentiment analysis model, ensuring swift and efficient processing of user feedback.
+2. **Lightning-Fast Insights: **⚡ With Intel OneAPI, our sentiment analysis engine swiftly analyzes user reviews and feedback, providing real-time insights to enhance the travel experience.
+3. **Seamless Integration: **🔗 Intel OneAPI seamlessly integrates with SmartTravel's architecture, enabling the sentiment analysis model to operate seamlessly and deliver rapid results.
+4. **Accelerating Enhancement:** 🚀 By leveraging Intel OneAPI for sentiment analysis, SmartTravel accelerates the pace of improvement, allowing for swift adjustments and enhancements based on user sentiments.
+5. **Empowering Innovation: **🌟 With Intel OneAPI, SmartTravel embarks on a journey of innovation, leveraging cutting-edge technology to shape the future of personalized travel companionship.
 # Technology Stack:
 # Performance Comparison:
 # Business Perspective:
