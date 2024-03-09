@@ -79,7 +79,7 @@ SmartTravel Assistant is a cutting-edge travel planning application that revolut
 
 7.**Multilingual Travel Support:** Translator, helping the traveler communicate with locals, navigate public transportation, and access essential services with ease.
 
-# Knowledge Insight: Leveraging Intel OneAPI to Enhance AI and ML Features**
+# Knowledge Insight: Leveraging Intel OneAPI to Enhance AI and ML Features
 
 In our journey of exploring AI, ML, and deep learning, we've encountered various tools and frameworks to power our solutions. Among them, Intel OneAPI stands out for its versatility and performance. By providing a rich set of predefined libraries, Intel OneAPI streamlines development and accelerates processing, surpassing other cloud API tools in speed and efficiency.
 
