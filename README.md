@@ -97,8 +97,13 @@ With Intel OneAPI, developers can harness the power of hardware acceleration to 
 In conclusion, leveraging Intel OneAPI empowers developers to create AI and ML solutions that are not only high-performing but also scalable and efficient. Its speed, reliability, and ease of integration with cloud APIs make it a valuable asset in today's data-driven world, driving innovation and unlocking new possibilities in AI and ML development.
 # Requirements For Initial Setup:
 **Step 1:** Extract the csv file from the zip'text csv file'
+
 **Step 2:** Clone the github repository
+
 **Step 3:** Use ipynb file in Intel OneAPI for faster code execution
+
 **Step 4:** Pip install necessary packages required by the file
+
 **Step 5:** Create a flask event and call the ipynb code to react file
+
 **Step 6:** Edit and Optimise the code
