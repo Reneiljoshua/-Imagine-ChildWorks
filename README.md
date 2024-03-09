@@ -76,5 +76,5 @@ SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI a
 
 **Solo Traveler Assistance:** A solo traveler wants to explore a new destination independently. SmartTravel provides personalized recommendations for solo-friendly accommodations, safe transportation options, and solo-friendly activities. It also offers safety tips and emergency assistance features to ensure the traveler's security and well-being during the trip.
 
-**Multilingual Travel Support:**ranslator, helping the traveler communicate with locals, navigate public transportation, and access essential services with ease.
+**Multilingual Travel Support:** Translator, helping the traveler communicate with locals, navigate public transportation, and access essential services with ease.
 # Knowledge Insights:
