@@ -1,0 +1,187 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.header {
+  background-color: lightslategray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.header .right ul {
+  text-decoration: none;
+  display: flex;
+  gap: 20px;
+}
+
+.header .right ul li {
+  list-style: none;
+}
+
+.header .left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.getdetails {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.login .card , .getdetails .card{
+  padding: 20px 10px;
+  background-color: lightslategray;
+  border-radius: 10px;
+}
+
+.login .card .form , .getdetails .card .form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.login .card .form input {
+  min-width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.getdetails .card .form .inputdiv {
+  min-width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.getdetails .card .form .inputdiv input {
+  min-width: 280px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.getdetails .card .form .inputdiv button {
+  min-width: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+.login .card .form button , .getdetails .card .form button{
+  min-width: 320px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.login .card .form button:hover , .getdetails .card .form button:hover {
+  background-color: #CEE6F2;
+}
+
+.signup {
+  min-width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.signup .card {
+  padding: 20px 10px;
+  background-color: lightslategray;
+  border-radius: 10px;
+}
+
+.signup .card .form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.signup .card .form input {
+  min-width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.signup .card .form button {
+  min-width: 320px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.signup .card .form button:hover {
+  background-color: #CEE6F2;
+}
+
+.Recommend p , .rccard p{
+  background-color: lightslategray;
+  padding: 5px;
+  color: white;
+}
+
+ .rc {
+  /* min-width: 00px; */
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+ .rccard {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cont {
+  display: flex;
+  max-height: 100vh;
+}
+
+.top {
+  padding: 10px 30px; 
+}
+
+.top h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 70px;
+  font-style: oblique;
+}
+
+.top p {
+  padding-left: 20px;
+  font-size: 30px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+}
+
+/* .cont button {
+  flex-direction: column;
+} */
