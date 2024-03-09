@@ -53,7 +53,9 @@ SmartTravel Assistant is a cutting-edge travel planning application that revolut
 
 5.🤖 Machine Learning Libraries
 # Performance Comparison:
-![WhatsApp Image 2024-03-09 at 15 39 06_8600992a](https://github.com/Reneiljoshua/Imagine-ChildWorks/assets/96534599/acb35f86-088a-4c49-a581-8799ca51a7e8)
+![WhatsApp Image 2024-03-09 at 16 19 49_87d59efa](https://github.com/Reneiljoshua/Imagine-ChildWorks/assets/96534599/5a9b7201-7d6c-4d11-b096-405a30365c1d)
+![WhatsApp Image 2024-03-09 at 16 18 10_4209fcea](https://github.com/Reneiljoshua/Imagine-ChildWorks/assets/96534599/183b3bbe-a970-4327-a45a-fcedce119c3b)
+
 
 # Business Perspective:
 
