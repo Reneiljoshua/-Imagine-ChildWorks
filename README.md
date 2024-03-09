@@ -42,6 +42,11 @@ SmartTravel Assistant🌍✈️is your ultimate travel companion, utilizing AI a
 4. **Accelerating Enhancement:** 🚀 By leveraging Intel OneAPI for sentiment analysis, SmartTravel accelerates the pace of improvement, allowing for swift adjustments and enhancements based on user sentiments.
 5. **Empowering Innovation: **🌟 With Intel OneAPI, SmartTravel embarks on a journey of innovation, leveraging cutting-edge technology to shape the future of personalized travel companionship.
 # Technology Stack:
+1.🐍 Python
+2.🌐 Flask
+3.⚛️ React
+4.💻 Intel OneAPI Developer Cloud
+5.🤖 Machine Learning Libraries
 # Performance Comparison:
 # Business Perspective:
 # Use Cases:
