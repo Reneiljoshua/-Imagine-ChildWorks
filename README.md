@@ -97,7 +97,7 @@ With Intel OneAPI, developers can harness the power of hardware acceleration to 
 
 In conclusion, leveraging Intel OneAPI empowers developers to create AI and ML solutions that are not only high-performing but also scalable and efficient. Its speed, reliability, and ease of integration with cloud APIs make it a valuable asset in today's data-driven world, driving innovation and unlocking new possibilities in AI and ML development.
 # Requirements For Initial Setup:
-**Step 1:** Extract the csv file from the zip'text csv file'
+**Step 1:** Extract the csv file from the zip'text csv file' or use this, https://jupyter.oneapi.devcloud.intel.com/user/u215422/doc/tree/text.csv
 
 **Step 2:** Clone the github repository
 
